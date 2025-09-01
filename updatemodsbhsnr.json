@@ -3,14 +3,14 @@
   "Notification": "Đã sửa lỗi và cải thiện hiệu năng.",
   "Update": [
     {
-      "Name": "HamsterUpdater.exe",
-      "Link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm/main/bin/HamsterUpdater.exe",
-      "Path": "bin\\"
+      "Name": "QLTK.exe",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/QLTK.exe",
+      "Path": ""
     },
     {
-      "Name": "config.json",
-      "Link": "https://raw.githubusercontent.com/hamsterxt309/hamster_csmm/main/config/config.json",
-      "Path": "config\\"
+      "Name": "Assembly-CSharp.dll",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/Assembly-CSharp.dll",
+      "Path": "ClientPVT_Data\\Managed"
     }
   ]
 }
