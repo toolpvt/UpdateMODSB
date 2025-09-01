@@ -10,7 +10,7 @@
     {
       "Name": "Assembly-CSharp.dll",
       "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/Assembly-CSharp.dll",
-      "Path": "ClientPVT_Data\\Managed"
+      "Path": "ClientPVT_Data\\Managed\\"
     }
   ]
 }
