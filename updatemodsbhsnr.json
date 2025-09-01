@@ -1,6 +1,6 @@
 {
   "Version": "4.0",
-  "Notification": "Đã sửa lỗi và cải thiện hiệu năng.",
+  "Notification": "Sửa size Thông báo boss và skill thôi miên hụt khi tàn sát.",
   "Update": [
     {
       "Name": "QLTK.exe",
