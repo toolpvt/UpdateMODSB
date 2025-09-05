@@ -11,6 +11,11 @@
       "Name": "Assembly-CSharp.dll",
       "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/Assembly-CSharp.dll",
       "Path": "ClientPVT_Data\\Managed\\"
+    },
+    {
+      "Name": "mono.dll",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/Assembly-CSharp.dll",
+      "Path": "ClientPVT_Data\\Mono\\"
     }
   ]
 }
