@@ -3,11 +3,6 @@
   "Notification": "Sửa size Thông báo boss và skill thôi miên hụt khi tàn sát.",
   "Update": [
     {
-      "Name": "QLTK.exe",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/QLTK.exe",
-      "Path": ""
-    },
-    {
       "Name": "Assembly-CSharp.dll",
       "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/Assembly-CSharp.dll",
       "Path": "ClientPVT_Data\\Managed\\"
