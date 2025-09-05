@@ -11,6 +11,11 @@
       "Name": "mono.dll",
       "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/mono.dll",
       "Path": "ClientPVT_Data\\Mono\\"
+    },
+    {
+      "Name": "AutoLinkMapsWaypoint.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/UpdateMODSB/main/AutoLinkMapsWaypoint.txt",
+      "Path": "ClientPVT_Data\\XmapData\\"
     }
   ]
 }
